@@ -1,7 +1,0 @@
-Flask
-pdf2image
-pytesseract
-Pillow
-flask-cors
-pdf2image
-waitress
